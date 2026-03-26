@@ -164,9 +164,9 @@ def run_project():
 
             if res_avl:
                 print(f"\nMATCH FOUND:")
-                print(f"• Title:  {res_avl.title}")
-                print(f"• Author: {res_avl.author}")
-                print(f"• Year:   {res_avl.year} | Pages: {res_avl.pages} | Rating: {res_avl.rating}")
+                print(f"Title:  {res_avl.title}")
+                print(f"Author: {res_avl.author}")
+                print(f"Year:   {res_avl.year} | Pages: {res_avl.pages} | Rating: {res_avl.rating}")
             else:
                 print(f"\nResult: No record found for '{query}'.")
 
