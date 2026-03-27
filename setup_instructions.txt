@@ -1,0 +1,15 @@
+Setup Instructions:
+
+1. Download the project, Extract the zipped files to your desired folder.
+
+2. Make sure you see the files book_search.py (The program) and books.csv (dataset).
+
+3. Install Python: Download and install Python from python.org.
+
+4. Open Terminal: Type "cmd" (on Windows) or "Terminal" (on Mac) in your computer search bar and press Enter.
+
+5. Navigate to Your Project Folder: cd path/to/your/project_folder
+
+6. Install the Requirements: pip install pandas (or pip3 install pandas if using Python 3 specifically)
+
+7. Run the Program: python book_search.py (or python3 book_search.py)
